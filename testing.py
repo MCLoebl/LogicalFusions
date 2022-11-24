@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import make_interp_spline
 
 
-
+print('hello')
 
 def XZ(w, p_fail, transmission):
     # XY, ZX, ZY
